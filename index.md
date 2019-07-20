@@ -41,7 +41,7 @@ The national soup, which has also been adopted by other Slavic cultures, borsch 
 
 **holubtsi**
 
-![julia](Pictures/golubtsy.jpg)
+![julia](Pictures/golubtsy.png)
 
 Translated as “little doves,” holubtsi are cabbage rolls stuffed with seasoned rice and meat or buckwheat. The dish is usually topped with a tomato-based sauce.
 
