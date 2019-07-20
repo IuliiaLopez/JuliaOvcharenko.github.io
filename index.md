@@ -49,12 +49,6 @@ http://github.com - automatic!
 Blockquotes
 As Kanye West said:
 
-> We're living the future so
-> the present is our past.
-Inline code
-I think you should use an
-`<addr>` element here instead.
-
 Syntax highlighting
 ```javascript
 function fancyAlert(arg) {
