@@ -29,6 +29,8 @@ Ukraine has a vibrant opera and theater scene. For a schedule of performances vi
 
 **varenyky – вареники**
 
+![julia](Pictures/varenyky.jpg)
+
 Varenyky are small boiled dumplings made with rolled dough and filled with a special type of potato and cheese or some other filling. Almost all restaurants serve them, usually with either cheese or meat, and almost always with sour cream or a buttery sauce. Pyrohy usually refers to larger baked, pie-like varenyky filled with the same kinds of ingredients. Smaller, appetizer-sized versions of pyrohy are called pyrizhky, which are either baked or fried.
 
 **borshch – борщ**
