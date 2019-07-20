@@ -66,116 +66,45 @@ Khleeb is the Ukrainian word for bread. Sweet breads and rolls (bulochky) are st
 ## **Must See Places**
 
 
-St. Michael’s Golden – Domed Cathedral
+**St. Michael’s Golden – Domed Cathedral**
 
 ![julia](Pictures/St.MichaelGoldenDomedCathedral.jpg)
  
-St. Sophia’s Cathedral
+**St. Sophia’s Cathedral**
 
 ![julia](Pictures/SophiaanotherangleAdrian.jpg)
  
-Golden Gates of Kyiv
+**Golden Gates of Kyiv**
 
 ![julia](Pictures/GoldenGateAdrian.jpg)
  
-Kyiv – Pechersk Cave Monastery
+**Kyiv – Pechersk Cave Monastery**
 
 ![julia](Pictures/KyivPecherskCaveMonastery.jpg)
  
-Mariyinsky Palace and Parliament Building in Kyiv
+**Mariyinsky Palace and Parliament Building in Kyiv**
 
 ![julia](Pictures/MariyinskyPalaceandParliamentBuilding.jpg)
  
-Historic Lviv City Center – UNESCO World Heritage Site
+**Historic Lviv City Center – UNESCO World Heritage Site**
 
 ![julia](Pictures/HistoricLviv.jpg)
  
-Kamianets – Podilskyi Castle
+**Kamianets – Podilskyi Castle**
 
 ![julia](Pictures/KamianetsPodilskyiCastle.jpg)
  
-Carpathian Mountains
+**Carpathian Mountains**
 
 ![julia](Pictures/CarpathianMountains.jpg)
  
-Chernivtsi National University Campus
+**Chernivtsi National University Campus**
 
 ![julia](Pictures/ChernivtsiNationalUniversity.jpg)
  
-Seaside Odesa
-
-St. Michael’s Golden – Domed Cathedral
-
-![julia](Pictures/St.MichaelGoldenDomedCathedral.jpg)
- 
-St. Sophia’s Cathedral
-
-[julia](Pictures/varenyky.jpg)
- 
-Golden Gates of Kyiv
-
-![julia](Pictures/GoldenGateAdrian.jpg)
- 
-Kyiv – Pechersk Cave Monastery
-
-![julia](Pictures/KyivPecherskCaveMonastery.jpg)
- 
-Mariyinsky Palace and Parliament Building in Kyiv
-
-![julia](Pictures/MariyinskyPalaceandParliamentBuilding.jpg)
- 
-Historic Lviv City Center – UNESCO World Heritage Site
-
-![julia](Pictures/varenyky.jpg)
- 
-Kamianets – Podilskyi Castle
-
-![julia](Pictures/varenyky.jpg)
- 
-Carpathian Mountains
-
-![julia](Pictures/varenyky.jpg)
- 
-Chernivtsi National University Campus
-
-![julia](Pictures/ChernivtsiNationalUniversity.jpg)
- 
-Seaside Odesa
-
-![julia](Pictures/SeasideOdesa.jpg)
- 
-Museum of the Battle of Poltava
-
-![julia](Pictures/Poltava.jpg)
- 
-Khortytsia National Nature Reserve and Zaporizhian Kozak Museum
-
-![julia](Pictures/KhortytsiaZaporizhianKozakMuseum.png)
-
-
-  Emphasis
- *This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
 
 
 
-   Images
-   ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
-
-
-
-
-
-Task Lists
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
 
 Tables
 First Header | Second Header
