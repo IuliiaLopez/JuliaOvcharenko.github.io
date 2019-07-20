@@ -1,13 +1,13 @@
-Ukraine is a country, situated in the centre of Europe. 
-It has a long history, beautiful landscapes, interesting traditions and rich culture. 
-It has approximately 45 millions inhabitants and the area is 603 628 square kilometers. 
-The capital of this county is beautiful and ancient city – Kyiv, which is proud of its architectural monuments, green parks and well-looking squares.
+__Ukraine is a country, situated in the centre of Europe__
+__It has a long history, beautiful landscapes, interesting traditions and rich culture.__
+__It has approximately 45 millions inhabitants and the area is 603 628 square kilometers.__
+__The capital of this county is beautiful and ancient city – Kyiv, which is proud of its architectural monuments, green parks and well-looking squares.__
   
-## <h3> History of Ukraine
-## <h3> Opera and Theater
-## <h3> Ukrainian Cuisine
-## <h3> Ukrainian Currency
-## <h3> Must See Places
+## <h3> *History of Ukraine*
+## <h3> *Opera and Theater*
+## <h3> *Ukrainian Cuisine*
+## <h3> *Ukrainian Currency*
+## <h3> **Must See Places**
 
   Emphasis
  *This text will be italic*
