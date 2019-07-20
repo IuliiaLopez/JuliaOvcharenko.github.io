@@ -68,74 +68,89 @@ Khleeb is the Ukrainian word for bread. Sweet breads and rolls (bulochky) are st
 
 St. Michael’s Golden – Domed Cathedral
 
+![julia](Pictures/St.MichaelGoldenDomedCathedral.jpg)
  
 St. Sophia’s Cathedral
 
+![julia](Pictures/SophiaanotherangleAdrian.jpg)
  
 Golden Gates of Kyiv
 
+![julia](Pictures/varenyky.jpg)
  
 Kyiv – Pechersk Cave Monastery
 
+![julia](Pictures/varenyky.jpg)
  
 Mariyinsky Palace and Parliament Building in Kyiv
 
+![julia](Pictures/varenyky.jpg)
  
 Historic Lviv City Center – UNESCO World Heritage Site
 
+![julia](Pictures/varenyky.jpg)
  
 Kamianets – Podilskyi Castle
 
+![julia](Pictures/varenyky.jpg)
  
 Carpathian Mountains
 
+![julia](Pictures/varenyky.jpg)
  
 Chernivtsi National University Campus
 
+![julia](Pictures/varenyky.jpg)
  
 Seaside Odesa
 
 St. Michael’s Golden – Domed Cathedral
 
+![julia](Pictures/St.MichaelGoldenDomedCathedral.jpg)
  
 St. Sophia’s Cathedral
 
+[julia](Pictures/varenyky.jpg)
  
 Golden Gates of Kyiv
 
+![julia](Pictures/GoldenGateAdrian.jpg)
  
 Kyiv – Pechersk Cave Monastery
 
+![julia](Pictures/KyivPecherskCaveMonastery.jpg)
  
 Mariyinsky Palace and Parliament Building in Kyiv
 
+![julia](Pictures/MariyinskyPalaceandParliamentBuilding.jpg)
  
 Historic Lviv City Center – UNESCO World Heritage Site
 
+![julia](Pictures/varenyky.jpg)
  
 Kamianets – Podilskyi Castle
 
+![julia](Pictures/varenyky.jpg)
  
 Carpathian Mountains
 
+![julia](Pictures/varenyky.jpg)
  
 Chernivtsi National University Campus
 
+![julia](Pictures/ChernivtsiNationalUniversity.jpg)
  
 Seaside Odesa
 
+![julia](Pictures/SeasideOdesa.jpg)
  
 Museum of the Battle of Poltava
 
+![julia](Pictures/Poltava.jpg)
  
 Khortytsia National Nature Reserve and Zaporizhian Kozak Museum
 
- 
-Museum of the Battle of Poltava
-
- 
-Khortytsia National Nature Reserve and Zaporizhian Kozak Museum
-
+![julia](Pictures/KhortytsiaZaporizhianKozakMuseum.png)
 
 
   Emphasis
