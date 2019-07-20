@@ -41,7 +41,7 @@ The national soup, which has also been adopted by other Slavic cultures, borsch 
 
 **holubtsi**
 
-![julia](Pictures/golubtsy.jpg)
+![julia](Pictures/golubtsy.png)
 
 Translated as “little doves,” holubtsi are cabbage rolls stuffed with seasoned rice and meat or buckwheat. The dish is usually topped with a tomato-based sauce.
 
@@ -63,12 +63,78 @@ Kasha is basically a grain-based cereal. The most common kind is hrechana kasha,
 
 Khleeb is the Ukrainian word for bread. Sweet breads and rolls (bulochky) are steeped with honey and are often associated with holidays or ceremonies. Babka is a sweet egg bread popular during Easter, but available all year. Kalach is similar to babka, but denser and braided into a circular shape. Paska is the official Easter bread, usually decorated and shaped into a cross. Korovay is a tall, cylindrical traditional wedding bread. Pampushki can be fresh rolls soaked in crushed garlic and oil, or a sort of sweet jam or fruit-filled baked roll. Makivnik is a sweet poppy-seed bread flavored with honey and molasses, popular around Christmas. Khrusty are deep-fried strips of sweet dough coated with sugar, and medivnyk is a honey cake that can keep for days without going stale.
 
-##  *Ukrainian Currency*
-
-
-
 ## **Must See Places**
 
+
+St. Michael’s Golden – Domed Cathedral
+
+ 
+St. Sophia’s Cathedral
+
+ 
+Golden Gates of Kyiv
+
+ 
+Kyiv – Pechersk Cave Monastery
+
+ 
+Mariyinsky Palace and Parliament Building in Kyiv
+
+ 
+Historic Lviv City Center – UNESCO World Heritage Site
+
+ 
+Kamianets – Podilskyi Castle
+
+ 
+Carpathian Mountains
+
+ 
+Chernivtsi National University Campus
+
+ 
+Seaside Odesa
+
+St. Michael’s Golden – Domed Cathedral
+
+ 
+St. Sophia’s Cathedral
+
+ 
+Golden Gates of Kyiv
+
+ 
+Kyiv – Pechersk Cave Monastery
+
+ 
+Mariyinsky Palace and Parliament Building in Kyiv
+
+ 
+Historic Lviv City Center – UNESCO World Heritage Site
+
+ 
+Kamianets – Podilskyi Castle
+
+ 
+Carpathian Mountains
+
+ 
+Chernivtsi National University Campus
+
+ 
+Seaside Odesa
+
+ 
+Museum of the Battle of Poltava
+
+ 
+Khortytsia National Nature Reserve and Zaporizhian Kozak Museum
+
+ 
+Museum of the Battle of Poltava
+
+ 
+Khortytsia National Nature Reserve and Zaporizhian Kozak Museum
 
 
 
@@ -80,30 +146,10 @@ _This will also be italic_
 __This will also be bold__
 
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
-  1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
 
    Images
    ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
-
-![julia](Pictures/varenyky.png)
-
-Links
-http://github.com - automatic!
-[GitHub](http://github.com)
-
-Blockquotes
-As Kanye West said:
-
 
 
 
@@ -128,7 +174,3 @@ Issue references within a reposit
 #1
 mojombo#1
 mojombo/github-flavored-markdown#1
-
-
-
-
