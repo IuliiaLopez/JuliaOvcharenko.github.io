@@ -1,11 +1,41 @@
-Hubot here, I like Node.js and Coffeescript (that´s what I´m made of!).
-I´ve had tacos on the moon and far superior to Earth tacos.
-I´ve had tacos on the moon and far superior to Earth tacos.
+__Ukraine is a country, situated in the centre of Europe
+It has a long history, beautiful landscapes, interesting traditions and rich culture.
+It has approximately 45 millions inhabitants and the area is 603 628 square kilometers.
+The capital of this county is beautiful and ancient city – Kyiv, which is proud of its architectural monuments, green parks and well-looking squares.__
 
-Headers
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+> _If you have decided to visit this country, you can be sure, that your trip will not be boring and you will get great impressions. 
+Ukraine offers a long list of places to visit. 
+Among them, there are the Carpathians, where you can breathe the fresh air and see amazing nature. If you love the extreme, you can go hiking and climbing. 
+If you are visiting Ukraine in summer, there are many lakes, where you can spend unforgettable time. 
+If you are interested in history of Ukrainians, you can visit **Zaporizhzhia**, where the kozaks lived. 
+There also a lot of castles in different parts of the country and a big number of ancient churches. 
+Among the most famous cities are **Kyiv**, **Lviv**, **Kamianets Podilskyi**, **Kharkiv**, **Odessa**, and **Chernivtsi**._
+
+## *History of Ukraine*
+
+
+
+## *Opera and Theater*
+
+Ukraine has a vibrant opera and theater scene. For a schedule of performances visit the websites of these and other popular venues:
+- [National Opera & Ballet Theater of Ukraine, Kyiv, Ukraine](https://www.opera.com.ua/)
+- [Lviv Opera & Ballet Theater, Lviv, Ukraine](http://opera.lviv.ua/)
+- [National Ivan Franko Theater of Drama in Ukraine, Kyiv, Ukraine](http://ft.org.ua/)
+- [Lviv Drama Theater of Maria Zankovetska, Lviv, Ukraine](http://www.zankovetska.com.ua/)
+- [The Odesa State Academical Opera and Ballet Theater, Odesa, Ukraine](http://www.opera.odessa.ua/)
+
+## *Ukrainian Cuisine*
+
+
+
+##  *Ukrainian Currency*
+
+
+
+## **Must See Places**
+
+
+
 
   Emphasis
  *This text will be italic*
@@ -14,7 +44,6 @@ _This will also be italic_
 **This text will be bold**
 __This will also be bold__
 
-_You **can** combine them_
 
 * Item 1
 * Item 2
@@ -38,20 +67,11 @@ http://github.com - automatic!
 Blockquotes
 As Kanye West said:
 
-> We're living the future so
-> the present is our past.
-Inline code
-I think you should use an
-`<addr>` element here instead.
 
-Syntax highlighting
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+
+
+
+
 
 Task Lists
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
@@ -65,10 +85,7 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-SHA references
-16c999e8c71134401a78d4d46435517b2271d6ac
-mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
-mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
+
 
 Issue references within a reposit
 #1
