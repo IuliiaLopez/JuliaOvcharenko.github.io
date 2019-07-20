@@ -83,7 +83,7 @@ __This will also be bold__
    ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
-[julia](Pictures/varenyky.png)
+![julia](Pictures/varenyky.png)
 
 Links
 http://github.com - automatic!
