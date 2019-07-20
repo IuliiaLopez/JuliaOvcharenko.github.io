@@ -82,10 +82,6 @@ Khleeb is the Ukrainian word for bread. Sweet breads and rolls (bulochky) are st
 
 ![julia](Pictures/KyivPecherskCaveMonastery.jpg)
  
-**Mariyinsky Palace and Parliament Building in Kyiv**
-
-![julia](Pictures/MariyinskyPalaceandParliamentBuilding.jpg)
- 
 **Historic Lviv City Center – UNESCO World Heritage Site**
 
 ![julia](Pictures/HistoricLviv.jpg)
