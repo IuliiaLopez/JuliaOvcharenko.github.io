@@ -6,7 +6,7 @@ Headers
 # This is an <h1> tag
 ## This is an <h2> tag
   
-## <h2> History of Ukraine
+## History of Ukraine
 <h2> Opera and Theater
 ## <h2> Ukrainian Cuisine
 ## <h2> Ukrainian Currency
