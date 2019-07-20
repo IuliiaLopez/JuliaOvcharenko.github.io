@@ -2,16 +2,12 @@ Ukraine is a country, situated in the centre of Europe.
 It has a long history, beautiful landscapes, interesting traditions and rich culture. 
 It has approximately 45 millions inhabitants and the area is 603 628 square kilometers. 
 The capital of this county is beautiful and ancient city – Kyiv, which is proud of its architectural monuments, green parks and well-looking squares.
-
-Headers
-# This is an <h1> tag
-## This is an <h2> tag
   
-## <h2> History of Ukraine
-## <h2> Opera and Theater
-## <h2> Ukrainian Cuisine
-## <h2> Ukrainian Currency
-## <h2> Must See Places
+## <h3> History of Ukraine
+## <h3> Opera and Theater
+## <h3> Ukrainian Cuisine
+## <h3> Ukrainian Currency
+## <h3> Must See Places
 
   Emphasis
  *This text will be italic*
