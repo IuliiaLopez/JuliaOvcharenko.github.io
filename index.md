@@ -9,12 +9,6 @@ The capital of this county is beautiful and ancient city – Kyiv, which is prou
 ## <h3> *Ukrainian Currency*
 ## <h3> **Must See Places**
 
-> We're living the future so
-> the present is our past.
-Inline code
-I think you should use an
-`<addr>` element here instead.
-
 > _If you have decided to visit this country, you can be sure, that your trip will not be boring and you will get great impressions. 
 Ukraine offers a long list of places to visit. 
 Among them, there are the Carpathians, where you can breathe the fresh air and see amazing nature. If you love the extreme, you can go hiking and climbing. 
