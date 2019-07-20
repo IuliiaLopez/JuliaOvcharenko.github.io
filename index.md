@@ -97,20 +97,3 @@ Khleeb is the Ukrainian word for bread. Sweet breads and rolls (bulochky) are st
 **Chernivtsi National University Campus**
 
 ![julia](Pictures/ChernivtsiNationalUniversity.jpg)
- 
-
-
-
-
-Tables
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-
-
-Issue references within a reposit
-#1
-mojombo#1
-mojombo/github-flavored-markdown#1
