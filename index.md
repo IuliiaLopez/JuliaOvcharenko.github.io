@@ -3,11 +3,11 @@ It has a long history, beautiful landscapes, interesting traditions and rich cul
 It has approximately 45 millions inhabitants and the area is 603 628 square kilometers.
 The capital of this county is beautiful and ancient city – Kyiv, which is proud of its architectural monuments, green parks and well-looking squares.__
   
-## <h3> *History of Ukraine*
-## <h3> *Opera and Theater*
-## <h3> *Ukrainian Cuisine*
-## <h3> *Ukrainian Currency*
-## <h3> **Must See Places**
+## *History of Ukraine*
+## *Opera and Theater*
+## *Ukrainian Cuisine*
+##  *Ukrainian Currency*
+## **Must See Places**
 
 > _If you have decided to visit this country, you can be sure, that your trip will not be boring and you will get great impressions. 
 Ukraine offers a long list of places to visit. 
