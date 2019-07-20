@@ -76,31 +76,31 @@ St. Sophia’s Cathedral
  
 Golden Gates of Kyiv
 
-![julia](Pictures/varenyky.jpg)
+![julia](Pictures/GoldenGateAdrian.jpg)
  
 Kyiv – Pechersk Cave Monastery
 
-![julia](Pictures/varenyky.jpg)
+![julia](Pictures/KyivPecherskCaveMonastery.jpg)
  
 Mariyinsky Palace and Parliament Building in Kyiv
 
-![julia](Pictures/varenyky.jpg)
+![julia](Pictures/MariyinskyPalaceandParliamentBuilding.jpg)
  
 Historic Lviv City Center – UNESCO World Heritage Site
 
-![julia](Pictures/varenyky.jpg)
+![julia](Pictures/HistoricLviv.jpg)
  
 Kamianets – Podilskyi Castle
 
-![julia](Pictures/varenyky.jpg)
+![julia](Pictures/KamianetsPodilskyiCastle.jpg)
  
 Carpathian Mountains
 
-![julia](Pictures/varenyky.jpg)
+![julia](Pictures/CarpathianMountains.jpg)
  
 Chernivtsi National University Campus
 
-![julia](Pictures/varenyky.jpg)
+![julia](Pictures/ChernivtsiNationalUniversity.jpg)
  
 Seaside Odesa
 
