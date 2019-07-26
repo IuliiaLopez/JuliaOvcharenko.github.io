@@ -27,96 +27,73 @@ Ukraine has a vibrant opera and theater scene. For a schedule of performances vi
 
 ## *Ukrainian Cuisine*
 
-**varenyky – вареники**
+**varenyky**
+
+![julia](Pictures/varenyky.jpg)
 
 Varenyky are small boiled dumplings made with rolled dough and filled with a special type of potato and cheese or some other filling. Almost all restaurants serve them, usually with either cheese or meat, and almost always with sour cream or a buttery sauce. Pyrohy usually refers to larger baked, pie-like varenyky filled with the same kinds of ingredients. Smaller, appetizer-sized versions of pyrohy are called pyrizhky, which are either baked or fried.
 
-**borshch – борщ**
+**borshch**
+
+![julia](Pictures/borsch.jpg)
 
 The national soup, which has also been adopted by other Slavic cultures, borsch is based on a beet and mixed vegetable broth that comes in dozens of varieties. The most popular version is a clear broth, but sour cream is often added.
 
-**holubtsi – голубці**
+**holubtsi**
+
+![julia](Pictures/golubtsy.png)
 
 Translated as “little doves,” holubtsi are cabbage rolls stuffed with seasoned rice and meat or buckwheat. The dish is usually topped with a tomato-based sauce.
 
-**kotleta po-kylvsky – котлета по-київськи**
+**kotleta po-kylvsky**
+
+![julia](Pictures/kotleta.jpg)
 
 Known to the English-speaking world as Chicken Kiev, kotleta po-Kylvsky is a chunk of boneless chicken stuffed with butter, then seasoned, floured, and deep-fried.
 
-**kasha – каша**
+**kasha**
+
+![julia](Pictures/kascha.jpg)
 
 Kasha is basically a grain-based cereal. The most common kind is hrechana kasha, a buckwheat porridge, seasoned and eaten with a sauce as a side dish or as a stuffing.
 
-**khleeb (“bread”) – хліб**
+**khleeb (“bread”)**
+
+![julia](Pictures/bread.jpg)
 
 Khleeb is the Ukrainian word for bread. Sweet breads and rolls (bulochky) are steeped with honey and are often associated with holidays or ceremonies. Babka is a sweet egg bread popular during Easter, but available all year. Kalach is similar to babka, but denser and braided into a circular shape. Paska is the official Easter bread, usually decorated and shaped into a cross. Korovay is a tall, cylindrical traditional wedding bread. Pampushki can be fresh rolls soaked in crushed garlic and oil, or a sort of sweet jam or fruit-filled baked roll. Makivnik is a sweet poppy-seed bread flavored with honey and molasses, popular around Christmas. Khrusty are deep-fried strips of sweet dough coated with sugar, and medivnyk is a honey cake that can keep for days without going stale.
-
-##  *Ukrainian Currency*
-
-
 
 ## **Must See Places**
 
 
+**St. Michael’s Golden – Domed Cathedral**
 
+![julia](Pictures/St.MichaelGoldenDomedCathedral.jpg)
+ 
+**St. Sophia’s Cathedral**
 
-  Emphasis
- *This text will be italic*
-_This will also be italic_
+![julia](Pictures/SophiaanotherangleAdrian.jpg)
+ 
+**Golden Gates of Kyiv**
 
-**This text will be bold**
-__This will also be bold__
+![julia](Pictures/GoldenGateAdrian.jpg)
+ 
+**Kyiv – Pechersk Cave Monastery**
 
+![julia](Pictures/KyivPecherskCaveMonastery.jpg)
+ 
+**Historic Lviv City Center – UNESCO World Heritage Site**
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+![julia](Pictures/HistoricLviv.jpg)
+ 
+**Kamianets – Podilskyi Castle**
 
-  1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+![julia](Pictures/KamianetsPodilskyiCastle.jpg)
+ 
+**Carpathian Mountains**
 
-   Images
-   ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![julia](Pictures/CarpathianMountains.jpg)
+ 
+**Chernivtsi National University Campus**
 
-![julia](Pictures/varenyky.png)
-
-Links
-http://github.com - automatic!
-[GitHub](http://github.com)
-
-Blockquotes
-As Kanye West said:
-
-
-
-
-
-
-
-Task Lists
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
-Tables
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-
-
-Issue references within a reposit
-#1
-mojombo#1
-mojombo/github-flavored-markdown#1
-
-
-
-
+![julia](Pictures/ChernivtsiNationalUniversity.jpg)
